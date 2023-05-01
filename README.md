@@ -1,2 +1,0 @@
-# Calculator
-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
